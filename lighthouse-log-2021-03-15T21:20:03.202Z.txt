@@ -1,0 +1,91 @@
+Original score for https://tiki.vn/khuyen-mai/uu-dai-vichy-la-roche-posay: 0/100
+New optimized score: 0/100
+
+Original score for https://tiki.vn/khuyen-mai/page-builder: 84/100
+New optimized score: 89/100
+
+First Contentful Paint is 0.5s slower
+(old: 887.40ms, new: 1386.59ms)
+
+Speed Index is 0.15s faster
+(old: 1537.70ms, new: 1386.59ms)
+
+Largest Contentful Paint is 1.29s slower
+(old: 887.40ms, new: 2177.66ms)
+
+Time to Interactive is 0.69s faster
+(old: 6132.40ms, new: 5447.27ms)
+
+Total Blocking Time is 0.15s faster
+(old: 527.50ms, new: 380.00ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Original score for https://tiki.vn/khuyen-mai/test: 67/100
+New optimized score: 95/100
+
+First Contentful Paint is 0.22s slower
+(old: 943.84ms, new: 1164.34ms)
+
+Speed Index is 0.9s slower
+(old: 2285.93ms, new: 3183.02ms)
+
+Largest Contentful Paint is 4.56s faster
+(old: 6592.68ms, new: 2033.96ms)
+
+Time to Interactive is 0.87s faster
+(old: 5166.56ms, new: 4300.96ms)
+
+Total Blocking Time is 0.23s faster
+(old: 413.00ms, new: 186.50ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Original score for https://tiki.vn/khuyen-mai/yeu-bep-nghien-nha-giam-den-50-100-chinh-hang: 43/100
+New optimized score: 95/100
+
+First Contentful Paint is 0.71s slower
+(old: 1280.33ms, new: 1988.59ms)
+
+Speed Index is 1.08s faster
+(old: 3709.14ms, new: 2627.98ms)
+
+Largest Contentful Paint is 6.75s faster
+(old: 8960.43ms, new: 2213.59ms)
+
+Time to Interactive is 2.81s faster
+(old: 7365.34ms, new: 4559.37ms)
+
+Total Blocking Time is 1.22s faster
+(old: 1371.00ms, new: 155.50ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Original score for https://tiki.vn/khuyen-mai/lam-dep-thoi-bao-sale-dien-dao: 36/100
+New optimized score: 89/100
+
+First Contentful Paint is 0.72s slower
+(old: 1204.29ms, new: 1920.72ms)
+
+Speed Index is 1.49s faster
+(old: 4421.26ms, new: 2935.75ms)
+
+Largest Contentful Paint is 10.21s faster
+(old: 12285.51ms, new: 2070.72ms)
+
+Time to Interactive is 4.29s faster
+(old: 9024.28ms, new: 4734.93ms)
+
+Total Blocking Time is 2.93s faster
+(old: 3309.00ms, new: 376.00ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

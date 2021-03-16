@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "uu-dai-vichy-la-roche-posay",
+    "url": "https://tiki.vn/khuyen-mai/uu-dai-vichy-la-roche-posay",
+    "originalScore": 0,
+    "optimizedScore": 0
+  },
+  {
+    "slug": "page-builder",
+    "url": "https://tiki.vn/khuyen-mai/page-builder",
+    "originalScore": 85,
+    "optimizedScore": 90,
+    "first-contentful-paint": {
+      "title": "First Contentful Paint",
+      "originalNumericValue": "850.00",
+      "optimizedNumericValue": "1379.48",
+      "originalColorScore": 1,
+      "optimizedColorScore": 0.99,
+      "diffString": "0.53s slower"
+    },
+    "speed-index": {
+      "title": "Speed Index",
+      "originalNumericValue": "1412.21",
+      "optimizedNumericValue": "1379.48",
+      "originalColorScore": 1,
+      "optimizedColorScore": 1,
+      "diffString": "0.03s faster"
+    },
+    "largest-contentful-paint": {
+      "title": "Largest Contentful Paint",
+      "originalNumericValue": "850.00",
+      "optimizedNumericValue": "2168.66",
+      "originalColorScore": 1,
+      "optimizedColorScore": 0.95,
+      "diffString": "1.32s slower"
+    },
+    "interactive": {
+      "title": "Time to Interactive",
+      "originalNumericValue": "5708.01",
+      "optimizedNumericValue": "5334.94",
+      "originalColorScore": 0.68,
+      "optimizedColorScore": 0.73,
+      "diffString": "0.37s faster"
+    },
+    "total-blocking-time": {
+      "title": "Total Blocking Time",
+      "originalNumericValue": "532.00",
+      "optimizedNumericValue": "353.50",
+      "originalColorScore": 0.58,
+      "optimizedColorScore": 0.82,
+      "diffString": "0.18s faster"
+    },
+    "cumulative-layout-shift": {
+      "title": "Cumulative Layout Shift",
+      "originalNumericValue": "0.00",
+      "optimizedNumericValue": "0.00",
+      "originalColorScore": 1,
+      "optimizedColorScore": 1,
+      "diffString": "unchanged"
+    }
+  },
+  {
+    "slug": "test",
+    "url": "https://tiki.vn/khuyen-mai/test",
+    "originalScore": 62,
+    "optimizedScore": 96,
+    "first-contentful-paint": {
+      "title": "First Contentful Paint",
+      "originalNumericValue": "940.69",
+      "optimizedNumericValue": "1161.26",
+      "originalColorScore": 1,
+      "optimizedColorScore": 1,
+      "diffString": "0.22s slower"
+    },
+    "speed-index": {
+      "title": "Speed Index",
+      "originalNumericValue": "2339.64",
+      "optimizedNumericValue": "3006.12",
+      "originalColorScore": 0.98,
+      "optimizedColorScore": 0.94,
+      "diffString": "0.67s slower"
+    },
+    "largest-contentful-paint": {
+      "title": "Largest Contentful Paint",
+      "originalNumericValue": "6674.18",
+      "optimizedNumericValue": "2027.94",
+      "originalColorScore": 0.08,
+      "optimizedColorScore": 0.97,
+      "diffString": "4.65s faster"
+    },
+    "interactive": {
+      "title": "Time to Interactive",
+      "originalNumericValue": "5334.76",
+      "optimizedNumericValue": "4459.21",
+      "originalColorScore": 0.73,
+      "optimizedColorScore": 0.83,
+      "diffString": "0.88s faster"
+    },
+    "total-blocking-time": {
+      "title": "Total Blocking Time",
+      "originalNumericValue": "550.00",
+      "optimizedNumericValue": "163.00",
+      "originalColorScore": 0.56,
+      "optimizedColorScore": 0.99,
+      "diffString": "0.39s faster"
+    },
+    "cumulative-layout-shift": {
+      "title": "Cumulative Layout Shift",
+      "originalNumericValue": "0.00",
+      "optimizedNumericValue": "0.00",
+      "originalColorScore": 1,
+      "optimizedColorScore": 1,
+      "diffString": "unchanged"
+    }
+  },
+  {
+    "slug": "yeu-bep-nghien-nha-giam-den-50-100-chinh-hang",
+    "url": "https://tiki.vn/khuyen-mai/yeu-bep-nghien-nha-giam-den-50-100-chinh-hang",
+    "originalScore": 43,
+    "optimizedScore": 93,
+    "first-contentful-paint": {
+      "title": "First Contentful Paint",
+      "originalNumericValue": "1150.46",
+      "optimizedNumericValue": "2129.33",
+      "originalColorScore": 1,
+      "optimizedColorScore": 0.93,
+      "diffString": "0.98s slower"
+    },
+    "speed-index": {
+      "title": "Speed Index",
+      "originalNumericValue": "3408.64",
+      "optimizedNumericValue": "2961.32",
+      "originalColorScore": 0.9,
+      "optimizedColorScore": 0.95,
+      "diffString": "0.45s faster"
+    },
+    "largest-contentful-paint": {
+      "title": "Largest Contentful Paint",
+      "originalNumericValue": "8993.07",
+      "optimizedNumericValue": "2354.33",
+      "originalColorScore": 0.01,
+      "optimizedColorScore": 0.93,
+      "diffString": "6.64s faster"
+    },
+    "interactive": {
+      "title": "Time to Interactive",
+      "originalNumericValue": "7265.21",
+      "optimizedNumericValue": "4909.34",
+      "originalColorScore": 0.5,
+      "optimizedColorScore": 0.78,
+      "diffString": "2.36s faster"
+    },
+    "total-blocking-time": {
+      "title": "Total Blocking Time",
+      "originalNumericValue": "1392.50",
+      "optimizedNumericValue": "147.50",
+      "originalColorScore": 0.07,
+      "optimizedColorScore": 0.99,
+      "diffString": "1.25s faster"
+    },
+    "cumulative-layout-shift": {
+      "title": "Cumulative Layout Shift",
+      "originalNumericValue": "0.00",
+      "optimizedNumericValue": "0.00",
+      "originalColorScore": 1,
+      "optimizedColorScore": 1,
+      "diffString": "unchanged"
+    }
+  }
+]

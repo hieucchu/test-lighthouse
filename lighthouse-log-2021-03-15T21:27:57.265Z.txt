@@ -1,0 +1,69 @@
+Original score for https://tiki.vn/khuyen-mai/uu-dai-vichy-la-roche-posay: 0/100
+New optimized score: 0/100
+
+Original score for https://tiki.vn/khuyen-mai/page-builder: 85/100
+New optimized score: 90/100
+
+First Contentful Paint is 0.53s slower
+(old: 850.00ms, new: 1379.48ms)
+
+Speed Index is 0.03s faster
+(old: 1412.21ms, new: 1379.48ms)
+
+Largest Contentful Paint is 1.32s slower
+(old: 850.00ms, new: 2168.66ms)
+
+Time to Interactive is 0.37s faster
+(old: 5708.01ms, new: 5334.94ms)
+
+Total Blocking Time is 0.18s faster
+(old: 532.00ms, new: 353.50ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Original score for https://tiki.vn/khuyen-mai/test: 62/100
+New optimized score: 96/100
+
+First Contentful Paint is 0.22s slower
+(old: 940.69ms, new: 1161.26ms)
+
+Speed Index is 0.67s slower
+(old: 2339.64ms, new: 3006.12ms)
+
+Largest Contentful Paint is 4.65s faster
+(old: 6674.18ms, new: 2027.94ms)
+
+Time to Interactive is 0.88s faster
+(old: 5334.76ms, new: 4459.21ms)
+
+Total Blocking Time is 0.39s faster
+(old: 550.00ms, new: 163.00ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Original score for https://tiki.vn/khuyen-mai/yeu-bep-nghien-nha-giam-den-50-100-chinh-hang: 43/100
+New optimized score: 93/100
+
+First Contentful Paint is 0.98s slower
+(old: 1150.46ms, new: 2129.33ms)
+
+Speed Index is 0.45s faster
+(old: 3408.64ms, new: 2961.32ms)
+
+Largest Contentful Paint is 6.64s faster
+(old: 8993.07ms, new: 2354.33ms)
+
+Time to Interactive is 2.36s faster
+(old: 7265.21ms, new: 4909.34ms)
+
+Total Blocking Time is 1.25s faster
+(old: 1392.50ms, new: 147.50ms)
+
+Cumulative Layout Shift is unchanged
+(old: 0.00, new: 0.00)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
